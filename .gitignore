@@ -1,0 +1,4 @@
+/.venv/
+/others/
+.env
+.DS_Store
